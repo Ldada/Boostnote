@@ -1,0 +1,2 @@
+# Boostnote
+Boostnote Library
